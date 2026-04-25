@@ -1,1 +1,1 @@
-print ('flask is used for hodting online APIs')
+print ('flask is used for hosting online APIs')
